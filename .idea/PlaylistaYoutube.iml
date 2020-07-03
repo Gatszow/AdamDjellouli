@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AlgorytmyTestySzyfryETC/Wyszukiwanie Liniowe i Binarne" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Moduly/ModulTurtle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OperacjeNaPlikach" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorytmySortowania" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Moduly" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Gry" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Podstawy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorytmyTestySzyfryETC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OperacjeBitoweWPythonie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rekurencja" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Moduly/GUI_Tkinker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Moduly/GUI_Tkinker/Aplikacje" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
